@@ -26,7 +26,7 @@ Description: An analysis of real-world datasets using Python's Pandas and Matplo
 
 ## 📫 Contact
 
-Feel free to reach out! You can contact me via email at [your.email@example.com]. Let's connect on [LinkedIn](www.linkedin.com/in/stephan-owusu-wiredu).
+Feel free to reach out! You can contact me via email at [stephanwiredu720@gmail.com]. Let's connect on [LinkedIn](www.linkedin.com/in/stephan-owusu-wiredu).
 
 ## 📄 License
 
